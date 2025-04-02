@@ -1,2 +1,2 @@
-# JS-The-hard-parts
-JavaScript Online Tutorial
+# js-intro
+Hello, World!
